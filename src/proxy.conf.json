@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "secure": false
+    }
+  }
